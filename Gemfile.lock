@@ -7,6 +7,7 @@ GEM
     rack-protection (2.1.0)
       rack
     ruby2_keywords (0.0.5)
+    sequel (5.46.0)
     sinatra (2.1.0)
       mustermann (~> 1.0)
       rack (~> 2.2)
@@ -18,6 +19,7 @@ PLATFORMS
   x86_64-darwin-17
 
 DEPENDENCIES
+  sequel
   sinatra
 
 BUNDLED WITH
